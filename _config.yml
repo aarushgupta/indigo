@@ -3,7 +3,7 @@ name: Aarush Gupta
 bio: Deep Learning enthusiast
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Stuff I find interesting
 
 # if it's an external image, update below for true
 # better with square images
@@ -34,8 +34,8 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: aarush363
+twitter: c414driu5
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
@@ -64,7 +64,7 @@ authors:
         bio: A Man who develops software with coffee
         external-image: false
         picture: assets/images/james.jpg
-        twitter: jamesfoster
+        twitter: jamesfoster  
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
