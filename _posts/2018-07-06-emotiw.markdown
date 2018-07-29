@@ -10,7 +10,7 @@ hidden: true # don't count this post in blog pagination
 description: "Coming Soon"
 category: project
 author: aarushgupta
-externalLink: false
+externalLink: https://github.com/vlgiitr/Group-Level-Emotion-Recognition
 ---
 <!-- 
 I recently participated in the EmotiW Challenge, Group Level Emotion Recognition in Images, along with my friends, Dakshit Agrawal and Hardik Chauhan, and Dr. Marco Pedersoli and Jose Dolz from ETS Montreal, Canada. We stood 4th in the competition. -->
