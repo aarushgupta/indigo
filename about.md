@@ -4,11 +4,11 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Hi! I am a third year undergraduate at IIT Roorkee, majoring in Computer Science & Engineering. I am a Deep Learning enthusiast and am currently working on interesting problems in the field of Computer Vision</p>
+<p> I am a third year undergraduate at IIT Roorkee, majoring in Computer Science & Engineering. I am a Deep Learning enthusiast and am currently working on interesting problems in the field of Computer Vision. At IIT Roorkee, I worked with Dr. Biplab Banerjee on problems related to the recognition of human actions in videos.</p>
 
-<p> I recently worked with Dr. Marco Pedersoli and Jose Dolz at ETS Montreal, Canada on the problem of Group Level Emotion Recognition in Images for the ICMI'18 EmotiW Challenge. We were ranked 4th among all the participating teams.</p>
+<p> I recently worked with Dr. Marco Pedersoli and Jose Dolz at ETS Montreal, Canada on the problem of Group Level Emotion Recognition in Images for the ICMI'18 EmotiW Challenge. We were ranked 4th among all the participating teams. We also submitted our methodology in the form of a short paper for the conference. The paper is also available on arXiv <a href="https://arxiv.org/abs/1807.03380"><b>[Link]</b></a></p>
 
-<p> I am also working with Dr. Biplab Banerjee at IIT Bombay on the problem, Zero-Shot Learning for Human Action Recognition in Videos. </p>
+<p> I am also a core member of the Vision and Language Group at IIT Roorkee, a student-run research-centric Deep Learning group. We meet twice a week to discuss relevant Deep Learning research papers and budding ideas in the community.</p> 
 
 <!-- <p>I am always interested to discuss new and relevant ideas. Feel free to drop me an email if interested. </p> -->
 
@@ -41,3 +41,8 @@ layout: page
 	<li><a href="https://github.com/">Dolor Lorem</a></li>
 </ul>
  -->
+
+<!--  <h2> News </h2>
+
+ <p> <b>[7<sup>th</sup> July 2018]</b> Achieved 4<sup>th</sup> rank in ICMI'18 EmotiW Group-Level Emotion Recognition Challenge. Submitted a short paper describing the methodology for the same.<br \>
+ </p> -->
