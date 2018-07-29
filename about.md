@@ -8,7 +8,7 @@ layout: page
 
 <p> I recently worked with Dr. Marco Pedersoli and Jose Dolz at ETS Montreal, Canada on the problem of Group Level Emotion Recognition in Images for the ICMI'18 EmotiW Challenge. We were ranked 4th among all the participating teams and submitted our methodology in the form of a short paper for the conference. The paper is also available on arXiv <a href="https://arxiv.org/abs/1807.03380"><b>[Link]</b></a></p>
 
-<p> I am also a core member of the Vision and Language Group <a href="http://vlgiitr.github.io"><b>[Link]</b></a></p> at IIT Roorkee, a student-run research-centric Deep Learning group. We meet twice a week to discuss relevant Deep Learning research papers and budding ideas in the DL community.</p> 
+<p> I am also a core member of the Vision and Language Group <a href="http://vlgiitr.github.io"><b>[Link]</b></a> at IIT Roorkee, a student-run research-centric Deep Learning group. We meet twice a week to discuss relevant Deep Learning research papers and budding ideas in the DL community.</p> 
 
 <!-- <p>I am always interested to discuss new and relevant ideas. Feel free to drop me an email if interested. </p> -->
 
